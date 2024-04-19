@@ -1,2 +1,5 @@
 print("hello Jude")
-print("Glory deh make sense")
+print("bye Jude")
+
+print("Attah the great")
+print( " i really went throught hell to get to this point ")
